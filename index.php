@@ -747,7 +747,7 @@ include('db.php');
 </section>
 <!-- /contact -->
 			<div class="copy">
-		        <p>© 2017 SUNRISE . All Rights Reserved | Design by <a href="index.php">SUNRISE</a> </p>
+		        <p>© 2021 SUNRISE . All Rights Reserved | Design by <a href="index.php">SUNRISE</a> </p>
 		    </div>
 <!--/footer -->
 <!-- js -->
